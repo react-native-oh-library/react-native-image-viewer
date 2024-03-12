@@ -2,7 +2,6 @@ import * as React from 'react';
 
 import {
   Animated,
-  CameraRoll,
   Dimensions,
   I18nManager,
   Image,
@@ -15,6 +14,7 @@ import {
   View,
   ViewStyle
 } from 'react-native';
+import { CameraRoll } from "@react-native-camera-roll/camera-roll";
 import ImageZoom from 'react-native-image-pan-zoom';
 import styles from './image-viewer.style';
 import { IImageInfo, IImageSize, Props, State } from './image-viewer.type';
