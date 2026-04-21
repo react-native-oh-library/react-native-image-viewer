@@ -1,6 +1,6 @@
 # @react-native-ohos/react-native-image-zoom-viewer
 
-This project is based on [react-native-image-zoom-viewer@v3.0.2](https://github.com/ascoders/react-native-image-viewer/tree/v3.0.2)
+This project is based on [react-native-image-zoom-viewer@v3.0.2](https://github.com/ascoders/react-native-image-viewer/tree/v3.0.1)
 
 ## Documentation
 
