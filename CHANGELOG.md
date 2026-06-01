@@ -1,5 +1,5 @@
 
-# v3.0.3-rc.1
+# v3.0.3-beta.1
 * update:使用CameraRoll.saveAsset替换CameraRoll.saveToCameraRoll
 
 # v3.0.2
